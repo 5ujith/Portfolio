@@ -48,7 +48,7 @@ export const Bio = {
       contribution and achieve great things.`,
     github: "https://github.com/5ujith",
     resume:
-      "https://drive.google.com/file/d/1zOvGWmxlfvNPF17u0NuSvN07deOVI8zn/view?usp=sharing",
+      "https://drive.google.com/file/d/107XdFgO5qpHBrO5uq2u2B9EOz22eWLAe/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/sujith-s-1a01a61ba/",
 };
 
